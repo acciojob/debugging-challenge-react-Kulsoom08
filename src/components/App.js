@@ -11,6 +11,7 @@ const App = () => {
       <button className='increment-button' onClick={() => { setCount(count + 1) }}>Increment</button>
     </div>
   )
+  
 }
 
 
